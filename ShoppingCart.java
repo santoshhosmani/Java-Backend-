@@ -1,3 +1,5 @@
+package com.java.learnings.userInputs;
+
 import java.util.Scanner;
 
 public class ShoppingCart {
