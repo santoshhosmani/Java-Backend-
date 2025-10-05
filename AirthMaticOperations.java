@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package com.java.learnings.operations;
 
 public class AirthMaticOperations {
     public static void main(String[] args){
